@@ -1,5 +1,5 @@
 # Local RAG-based Content Engine 
-This repository contains a local **RAG (Retrieve and Generate)**-based Content Engine designed to analyze and compare PDF documents. The engine utilizes a local Large Language Model (LLM), local embeddings, a vector store, and a Streamlit chatbot to generate insights and comparisons.
+This repository contains a local **RAG**-based Content Engine designed to analyze and compare PDF documents. The engine utilizes a local Large Language Model (LLM), local embeddings, a vector store, and a Streamlit chatbot to generate insights and comparisons.
 
 The system runs entirely locally without relying on any external APIs, ensuring data privacy and security for users. It is implemented using various tools such as Langchain, Ollama, ChromaDB, Streamlit, and PyTorch, providing a robust and scalable solution for document analysis.
 
@@ -7,7 +7,7 @@ The system runs entirely locally without relying on any external APIs, ensuring 
 - Local document analysis and comparison using PDF files.
 - Insights and comparisons are generated via a chatbot interface built with Streamlit.
 - Ensures data privacy by running all processes locally, without using external APIs.
-- Built with modern machine learning techniques, including embeddings and local LLMs.
+- Built with modern AI Frameworks, including embeddings and local LLMs.
 
 ## Tech Stack
 - **Python**: Programming language for building the application.
